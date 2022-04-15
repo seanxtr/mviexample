@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MVIExample</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign in</string>
+    <string name="profile_fragment_label">This is the profile fragment.</string>
+</resources>
